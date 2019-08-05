@@ -29,6 +29,8 @@ Saved!
 
 ![Results Screenshot](results.JPG)
 
+https://github.com/GospelBeats/apify_web_scraper/blob/master/results.JPG
+
 Operation
 Scraping the html data from https://www.visithoustontexas.com/event/zumba-in-the-plaza/59011/ 
 Saving that data to a text file and outputing that data to the console
