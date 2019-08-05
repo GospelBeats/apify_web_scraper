@@ -27,7 +27,7 @@ Expected Console Output:
 
 Saved!
 
-![Results Screenshot](results.png)
+![Results Screenshot](results.JPG)
 
 Operation
 Scraping the html data from https://www.visithoustontexas.com/event/zumba-in-the-plaza/59011/ 
