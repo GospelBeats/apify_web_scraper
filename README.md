@@ -27,6 +27,8 @@ Expected Console Output:
 
 Saved!
 
+![Results Screenshot](results.png)
+
 Operation
 Scraping the html data from https://www.visithoustontexas.com/event/zumba-in-the-plaza/59011/ 
 Saving that data to a text file and outputing that data to the console
